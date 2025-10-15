@@ -3,6 +3,14 @@ Convert `.coverage` (binary format) files to `.coveragexml` (xml format) files t
 
 [![NuGet Badgedotnet-coverageconverter](https://buildstats.info/nuget/dotnet-coverageconverter)](https://www.nuget.org/packages/dotnet-coverageconverter)
 
+## Supported Frameworks
+
+This tool supports the following .NET frameworks:
+- .NET 6.0
+- .NET 7.0
+- .NET 8.0
+- .NET 9.0
+
 ## Installation
 Install locally:
 ``` cmd
